@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+}
+input {
+	background: white;
+	border: 1.5px solid darkgrey;
+	height: 55px;
+	width: 55px;
+	font: 25px bold;
+	text-align: center;
+}
+.char {
+	margin: 5px;
+}
+
+#submit {
+	background: green;
+	color: yellow;
+	width: 200px;
+	height: 40px;
+	margin: 10px;
+	font: 25px bold;
+}
